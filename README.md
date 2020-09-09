@@ -41,7 +41,7 @@ Test account:
 - Build tool：`Maven`
 - Backend API document：`Swagger`
 - Message queue：`RabbitMQ`
-- File system：`本地目录`、`七牛云`、`FastDfs`
+- File system：`local directory`、`S3`、`FastDfs`
 - Cache：`Redis`
 - Cache：`vue`
 - Mini Program：`wepy`
