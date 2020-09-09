@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/auth-service-parent/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/modules/auth-service-parent/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/auth-service-parent/auth-service-api/auth-service-api.iml" filepath="$PROJECT_DIR$/modules/auth-service-parent/auth-service-api/auth-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/auth-service-parent/auth-service-parent.iml" filepath="$PROJECT_DIR$/modules/auth-service-parent/auth-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-basic/common-basic.iml" filepath="$PROJECT_DIR$/common/common-basic/common-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-config/common-config.iml" filepath="$PROJECT_DIR$/common/common-config/common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-core/common-core.iml" filepath="$PROJECT_DIR$/common/common-core/common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-feign/common-feign.iml" filepath="$PROJECT_DIR$/common/common-feign/common-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-log/common-log.iml" filepath="$PROJECT_DIR$/common/common-log/common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-oss/common-oss.iml" filepath="$PROJECT_DIR$/common/common-oss/common-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-security/common-security.iml" filepath="$PROJECT_DIR$/common/common-security/common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/exam-service-parent/exam-service/exam-service.iml" filepath="$PROJECT_DIR$/modules/exam-service-parent/exam-service/exam-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/exam-service-parent/exam-service-api/exam-service-api.iml" filepath="$PROJECT_DIR$/modules/exam-service-parent/exam-service-api/exam-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/exam-service-parent/exam-service-parent.iml" filepath="$PROJECT_DIR$/modules/exam-service-parent/exam-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-service/monitor-service.iml" filepath="$PROJECT_DIR$/monitor-service/monitor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/msc-service-parent/msc-service/msc-service.iml" filepath="$PROJECT_DIR$/modules/msc-service-parent/msc-service/msc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/msc-service-parent/msc-service-api/msc-service-api.iml" filepath="$PROJECT_DIR$/modules/msc-service-parent/msc-service-api/msc-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/msc-service-parent/msc-service-parent.iml" filepath="$PROJECT_DIR$/modules/msc-service-parent/msc-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-microservice-exam.iml" filepath="$PROJECT_DIR$/spring-microservice-exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/user-service-parent/user-service/user-service.iml" filepath="$PROJECT_DIR$/modules/user-service-parent/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/user-service-parent/user-service-api/user-service-api.iml" filepath="$PROJECT_DIR$/modules/user-service-parent/user-service-api/user-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/user-service-parent/user-service-parent.iml" filepath="$PROJECT_DIR$/modules/user-service-parent/user-service-parent.iml" />
+    </modules>
+  </component>
+</project>

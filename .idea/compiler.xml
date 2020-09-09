@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway-service" />
+        <module name="exam-service" />
+        <module name="user-service" />
+        <module name="user-service-api" />
+        <module name="common-config" />
+        <module name="common-security" />
+        <module name="common-log" />
+        <module name="common-oss" />
+        <module name="common-basic" />
+        <module name="exam-service-api" />
+        <module name="msc-service" />
+        <module name="monitor-service" />
+        <module name="config-service" />
+        <module name="msc-service-api" />
+        <module name="auth-service-api" />
+        <module name="common-core" />
+        <module name="auth-service" />
+        <module name="common-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-service" target="1.8" />
+      <module name="auth-service-api" target="1.8" />
+      <module name="auth-service-parent" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common-basic" target="1.8" />
+      <module name="common-config" target="1.8" />
+      <module name="common-core" target="1.8" />
+      <module name="common-feign" target="1.8" />
+      <module name="common-log" target="1.8" />
+      <module name="common-oss" target="1.8" />
+      <module name="common-security" target="1.8" />
+      <module name="config-service" target="1.8" />
+      <module name="exam-service" target="1.8" />
+      <module name="exam-service-api" target="1.8" />
+      <module name="exam-service-parent" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="modules" target="1.8" />
+      <module name="monitor-service" target="1.8" />
+      <module name="msc-service" target="1.8" />
+      <module name="msc-service-api" target="1.8" />
+      <module name="msc-service-parent" target="1.8" />
+      <module name="spring-microservice-exam" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="user-service-api" target="1.8" />
+      <module name="user-service-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth-service" options="-parameters" />
+      <module name="auth-service-api" options="-parameters" />
+      <module name="common-basic" options="-parameters" />
+      <module name="common-config" options="-parameters" />
+      <module name="common-core" options="-parameters" />
+      <module name="common-feign" options="-parameters" />
+      <module name="common-log" options="-parameters" />
+      <module name="common-oss" options="-parameters" />
+      <module name="common-security" options="-parameters" />
+      <module name="config-service" options="-parameters" />
+      <module name="exam-service" options="-parameters" />
+      <module name="exam-service-api" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="monitor-service" options="-parameters" />
+      <module name="msc-service" options="-parameters" />
+      <module name="msc-service-api" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="user-service-api" options="-parameters" />
+    </option>
+  </component>
+</project>

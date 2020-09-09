@@ -1,0 +1,30 @@
+2020-05-13T10:34:02.150880Z mysqld_safe Logging to '/var/lib/mysql/099ab693a404.err'.
+2020-05-13T10:34:02.172091Z mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+mysqld: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf at line 25!
+mysqld: [ERROR] Fatal error in defaults handling. Program aborted!
+2020-05-13T10:34:02.188407Z mysqld_safe mysqld from pid file /var/lib/mysql/099ab693a404.pid ended
+2020-05-13T10:36:08.768904Z mysqld_safe Logging to '/var/lib/mysql/099ab693a404.err'.
+2020-05-13T10:36:08.787242Z mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+mysqld: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf at line 25!
+mysqld: [ERROR] Fatal error in defaults handling. Program aborted!
+2020-05-13T10:36:08.801482Z mysqld_safe mysqld from pid file /var/lib/mysql/099ab693a404.pid ended
+2020-05-13T10:45:34.356436Z mysqld_safe Logging to '/var/lib/mysql/099ab693a404.err'.
+2020-05-13T10:45:34.375245Z mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+mysqld: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf at line 22!
+mysqld: [ERROR] Fatal error in defaults handling. Program aborted!
+2020-05-13T10:45:34.392369Z mysqld_safe mysqld from pid file /var/lib/mysql/099ab693a404.pid ended
+2020-05-13T10:51:43.915928Z mysqld_safe Logging to '/var/lib/mysql/099ab693a404.err'.
+2020-05-13T10:51:43.935179Z mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+mysqld: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf at line 1!
+mysqld: [ERROR] Fatal error in defaults handling. Program aborted!
+2020-05-13T10:51:43.950565Z mysqld_safe mysqld from pid file /var/lib/mysql/099ab693a404.pid ended
+2020-05-13T10:52:46.086322Z mysqld_safe Logging to '/var/lib/mysql/099ab693a404.err'.
+2020-05-13T10:52:46.104961Z mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+mysqld: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf at line 1!
+mysqld: [ERROR] Fatal error in defaults handling. Program aborted!
+2020-05-13T10:52:46.120330Z mysqld_safe mysqld from pid file /var/lib/mysql/099ab693a404.pid ended
+2020-05-13T10:53:52.018152Z mysqld_safe Logging to '/var/lib/mysql/099ab693a404.err'.
+2020-05-13T10:53:52.036739Z mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+mysqld: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf at line 24!
+mysqld: [ERROR] Fatal error in defaults handling. Program aborted!
+2020-05-13T10:53:52.052152Z mysqld_safe mysqld from pid file /var/lib/mysql/099ab693a404.pid ended
