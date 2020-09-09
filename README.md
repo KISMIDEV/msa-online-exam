@@ -13,7 +13,7 @@
 >
 > Question types support multiple choice questions, multiple choice questions, indefinite multiple choice questions, true or false questions, and short answer questions
 >
-> Support PC, H5, WeChat applet (open source behind the applet)
+> Support PC, H5
 
 
 
@@ -43,7 +43,7 @@ Test account:
 - Message queue：`RabbitMQ`
 - File system：`local directory`、`S3`、`FastDfs`
 - Cache：`Redis`
-- Cache：`vue`
+- Front End：`vuejs`
 - Mini Program：`wepy`
 
 ## Core dependencies
